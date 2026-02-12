@@ -1,0 +1,7 @@
+network:
+  renderer: networkd
+  version: 2
+  ethernets:
+    ens19:
+      addresses:
+        - 10.50.50.1/24
